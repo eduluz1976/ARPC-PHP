@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "eduluz1976\\arpc\\": "src/"
+            "eduluz1976\\ARPC\\": "src/"
         }
     }
 }
