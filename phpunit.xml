@@ -1,0 +1,15 @@
+<phpunit
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/6.3/phpunit.xsd"
+         backupGlobals="true"
+         backupStaticAttributes="false"        
+         verbose="false">
+    
+    
+    
+    <testsuites>
+  <testsuite name="unit_tests">
+    <directory>./tests</directory>
+  </testsuite>
+</testsuites>
+</phpunit>
