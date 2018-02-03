@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "eduluz1976\\ARPC\\": "src/"
+            "eduluz1976\\ARPC\\": "src/",
+            "project1\\" : "lib/project1/"
         }
     }
 }
